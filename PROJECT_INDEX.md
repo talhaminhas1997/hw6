@@ -4,7 +4,7 @@ This repository contains multiple prototypes and features organized by subdirect
 
 ## Projects
 
-### 📅 [Gatherly Coordination](./gatherly-coordination/)
+### 📅 [Prototype 1: Meeting Coordination](./prototype-1/)
 An iMessage-style coordination interface for scheduling meetings between users with AI-powered assistance.
 
 **Features:**
@@ -13,7 +13,7 @@ An iMessage-style coordination interface for scheduling meetings between users w
 - Automatic reschedule functionality
 - Beautiful iMessage UI
 
-**[View Demo →](./gatherly-coordination/index.html)**
+**[View Demo →](./prototype-1/index.html)**
 
 ---
 
