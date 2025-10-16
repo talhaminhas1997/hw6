@@ -35,6 +35,9 @@ A single-page web application that simulates an iMessage-like interface for coor
 ### Local Development
 Simply open `index.html` in your browser.
 
+Here is the Issue ID in Linear: GATHER-2
+
+
 ## Live Demo
 
 Coming soon!
