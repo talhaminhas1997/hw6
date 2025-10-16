@@ -39,6 +39,8 @@ scheduling-assistant/
 ├── index.html          # Main application file
 └── README.md          # This file
 ```
+Here is the Issue ID in Linear: GATHER-2
+
 
 ## Browser Compatibility
 
